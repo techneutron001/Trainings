@@ -17,3 +17,7 @@ Chapter 12 : React and the Server
 ============
 
 Redux
+action
+reducer
+middleware - thunk , saga
+store
